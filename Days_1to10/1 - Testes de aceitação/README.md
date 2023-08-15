@@ -1,6 +1,6 @@
-# 1 - Leitura sobre testes de aceitação - O codificador limpo
+# 1 - Leitura sobre práticas de programação. - O codificador limpo
 
-### Hoje tinha bastante coisa pra organizar, codar, reuniões, etc.. então resolvi passar 1 horinha lendo sobre TDD na prática, pelo livro O codificador limpo, escrito pelo famigerado Uncle Bob.
+### Hoje tinha bastante coisa pra organizar, codar, reuniões, etc.. então resolvi passar 1 horinha lendo sobre práticas de programação pelo livro O codificador limpo, escrito pelo famigerado Uncle Bob.
 
 ### No capitulo 6 (Prática) o autor aborda como praticar o TDD. O autor começa contando sobre como a velocidade para programar foi influente em seus dias. Conta o quão muda de forma drástica a forma de trabalhar quando temos tempos de resposta mais rápidos. Baseando em suas experiências, ele fala um pouco sobe como se comportar/reagir trabalhando com tempos de respostas rápidos e lentos.
 
