@@ -1,4 +1,4 @@
-# 1 - Leitura sobre práticas de programação. - O codificador limpo
+# 1 - Leitura sobre práticas de programação - O codificador limpo
 
 ### Hoje tinha bastante coisa pra organizar, codar, reuniões, etc.. então resolvi passar 1 horinha lendo sobre práticas de programação pelo livro O codificador limpo, escrito pelo famigerado Uncle Bob.
 
