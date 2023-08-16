@@ -13,33 +13,33 @@
 
 ### Na prática:
 
-Criando um componente:
+#### Criando um componente:
 
-https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c7add7a4-b68f-4320-8d19-d688bced1ff5/Untitled.png
+![image](https://github.com/gabrielduete/100DiasDeCodigo-He4rt/assets/59345698/d0010c4c-9d19-49a6-882a-9f0706605a11)
 
-https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6559a348-06b7-4e0e-8e7f-990730a51073/Untitled.png
+![image](https://github.com/gabrielduete/100DiasDeCodigo-He4rt/assets/59345698/7bcb7405-d7d7-4ef1-81ee-4f0f162df0bd)
 
-https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a69ab185-5018-4e4d-bb0a-3b39eb3d6f98/Untitled.png
+![image](https://github.com/gabrielduete/100DiasDeCodigo-He4rt/assets/59345698/1daa4728-0e73-4618-ba25-f86dac059365)
 
-Criando um componente e estilizando usando Shadow DOM:
+#### Criando um componente e estilizando usando Shadow DOM:
 
-https://s3-us-west-2.amazonaws.com/secure.notion-static.com/40c0fe84-7d16-4cbb-8515-b93cada0e6ed/Untitled.png
+![image](https://github.com/gabrielduete/100DiasDeCodigo-He4rt/assets/59345698/dc54dbef-4b9a-4d91-be9b-cd72fe2ac933)
 
-Criando atributos (nomeei como props pra ficar perto do React hehe):
+#### Criando atributos (nomeei como props pra ficar perto do React hehe):
 
-https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6a5ce433-9353-4022-976a-c1351625d71d/Untitled.png
+![image](https://github.com/gabrielduete/100DiasDeCodigo-He4rt/assets/59345698/1ab60a99-56a3-419b-9e5d-2e84ae8510c6)
 
-https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2f22f85f-ff05-4f3f-8ac0-594873c73b83/Untitled.png
+![image](https://github.com/gabrielduete/100DiasDeCodigo-He4rt/assets/59345698/807880a9-02f4-4632-833e-09c7d3af12f9)
 
-https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e645a5d5-82aa-4d31-811e-be7f5ddefed4/Untitled.png
+![image](https://github.com/gabrielduete/100DiasDeCodigo-He4rt/assets/59345698/3729dbd2-147e-4a5b-82ce-d6e294f63c8a)
 
-Criando atributo bgColor:
+#### Criando atributo bgColor:
 
-https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4b38f4a0-a2de-4c66-8ee1-e8facd17ee5b/Untitled.png
+![image](https://github.com/gabrielduete/100DiasDeCodigo-He4rt/assets/59345698/4ae3094b-62c2-4160-a0b2-1c0930b89c02)
 
-https://s3-us-west-2.amazonaws.com/secure.notion-static.com/37c5ead3-fb72-4ef6-967b-9917f7e2511b/Untitled.png
+![image](https://github.com/gabrielduete/100DiasDeCodigo-He4rt/assets/59345698/3696ab00-db91-4a49-8881-88ae193f14bc)
 
-https://s3-us-west-2.amazonaws.com/secure.notion-static.com/209815c4-6fbe-4aa9-8576-cdb68d3543f2/Untitled.png
+![image](https://github.com/gabrielduete/100DiasDeCodigo-He4rt/assets/59345698/2bae9c23-eeb0-4aa1-9f3b-70f4f063051d)
 
 ## Referências:
 
