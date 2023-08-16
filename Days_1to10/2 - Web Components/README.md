@@ -1,6 +1,6 @@
 # 2 - Web Components
 
-### Hoje estudei sobre Web Components, estou desenvolvendo um componente novo no design system do trabalho, como o componente é apenas visual e bem simples, já estou por acaba-lo, mas aproveitei para dar uma atenção maior nas tecnologias utilizadas, como Web Components.
+### Hoje estudei sobre Web Components, estou desenvolvendo um componente novo no [design system do trabalho](https://github.com/juntossomosmais/atomium), como o componente é apenas visual e bem simples, já estou por acaba-lo, mas aproveitei para dar uma atenção maior nas tecnologias utilizadas, como Web Components.
 
 ### Li bastante da documentação da MDN e assisti um vídeo sobre Web Components da Cod3r curso, ambos referenciados no final do capitulo.
 
