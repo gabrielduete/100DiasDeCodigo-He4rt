@@ -2,7 +2,7 @@
 
 No #100DiasDeCodigo de hoje estudei sobre conceitos do React Portals
 
-Com Reaact Portals conseguimos renderizar um componente fora da árvore hierárquica do React de maneira que o relacionamento pai-filho dos componentes não sejam afetados.
+Com React Portals conseguimos renderizar um componente fora da árvore hierárquica do React de maneira que o relacionamento pai-filho dos componentes não sejam afetados.
 
 ### Exemplos:
 
