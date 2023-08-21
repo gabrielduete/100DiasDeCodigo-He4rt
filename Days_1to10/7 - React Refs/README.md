@@ -2,7 +2,7 @@
 
 ### O useRef é um hook que permite referenciar um valor que não é necessário para renderização.
 
-### Podemos utilizar o useRef como uma alterantiva para armazenar valores. A principal sacada é que quando o valor de uma Ref muda, o componente em que está inserido não é renderizado novamente. Também conseguimos acessar elementos nativos através do DOM. É ideal para ser usado quando quer prevenir renderizações desnecessárias.
+### Podemos utilizar o useRef como uma alterantiva para armazenar valores. A principal sacada é que quando o valor de uma Ref muda, o componente em que está inserido não é renderizado novamente, tornando ideal para ser usado quando quiser prevenir renderizações desnecessárias. Também conseguimos acessar elementos nativos através do DOM.
 
 # Utilização
 
