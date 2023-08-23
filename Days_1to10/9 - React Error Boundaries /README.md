@@ -1,6 +1,6 @@
 # 9 - React Error Boundaries
 
-### Antes de termos os Erros Boundaries, as aplicações costumavam crashar quando ocorria algum erro de javascript, como por exemplo erro de tipagem. Os componentes corrompiam o estado interno e retornavam erros imcompreensíveis, erros esses causados por erros anteriores no código da aplicação, mas não tinhamos como trata-los, então as aplicações acabavam crashando e o usuário era forçado a recarregar a página.
+### Antes de termos os Erros Boundaries as aplicações costumavam crashar quando ocorria algum erro de javascript, como por exemplo erro de tipagem. Os componentes corrompiam o estado interno e retornavam erros imcompreensíveis, erros esses causados por erros anteriores no código da aplicação, mas não tinhamos como trata-los, então as aplicações acabavam crashando e o usuário era forçado a recarregar a página.
 
 ### Então agora temos o Error boundaries que é basicamente um trycatch em forma de componente, utilizados para capturar e tratar erros de javascript. Os componentes de error boundaries são necessariamente componentes de classe, porque devem acessar ao método `componentDidCatch(error, info)`, que é o método responsável por capturar o erro em tempo de execução. Também podemos usar o hook `react-error-boundary` caso opite por componentes funcionais, mas não temos nenhum hook equivalente ao `componentDidCatch()`.
 
