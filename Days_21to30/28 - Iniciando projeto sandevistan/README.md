@@ -1,0 +1,1 @@
+Iniciei um novo projeto onde vou guardar meus estudos e anotações ao longo do tempo, não fiz muita coisa ainda. Só criei o [repositório](https://github.com/gabrielduete/sandevistan), organizei a paleta de cores e uma estrutura no figma, estou trabalhando na home.
