@@ -1,1 +1,1 @@
-# Ainda trabalhando no figma do projeto sandevistan e comecei a instalar as deps do projeto
+# Hoje finalizei a home do sandevistan no figma e comecei a parte de About. Também comecei a instalar e configurar as deps no projeto.
