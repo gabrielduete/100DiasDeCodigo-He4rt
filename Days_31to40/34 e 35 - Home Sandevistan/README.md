@@ -1,4 +1,4 @@
-Trabalhando na Home do sandevistan, nunca dei tanto rage pra sincronizar um som na vida...
+Trabalhando na Home do sandevistan, passei uns bucados pra conseguir sincronizar o som xD
 
 Ainda falta refatorar e terminar os testes
 
