@@ -1,0 +1,4 @@
+- Resolvi bug do sandevistan finalmente /o/
+- Comecei a codar o layout
+- Resolvendo sugestão da PR no react4noobs
+- Treino de ingles
