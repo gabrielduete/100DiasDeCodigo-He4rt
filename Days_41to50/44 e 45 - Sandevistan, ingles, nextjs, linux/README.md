@@ -1,0 +1,4 @@
+- Codando footer, header e terminando o layout do sandevistan
+- Treino de inglês
+- Revisei uns conceitos de nextjs
+- Resolvendo b.o no linux
