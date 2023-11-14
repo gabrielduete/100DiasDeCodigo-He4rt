@@ -1,0 +1,4 @@
+- Treino de ingles
+- Vi sobre optimizing performance em react
+- Trabalhando no sandevistan
+- Trabalhando na PR do react4noobs
