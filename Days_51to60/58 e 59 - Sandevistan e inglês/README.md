@@ -1,0 +1,2 @@
+- Trabalhando no projeto sandevistan, finalmente terminando os menus, adicionei novas tasks e fiz alguns ajustes no figma
+- Treino de inglês
