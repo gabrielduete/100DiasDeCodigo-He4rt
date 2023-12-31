@@ -1,0 +1,2 @@
+- Trabalhando no sandevistan, terminando o menu pra mobile
+- Vi sobre First Input Delay, INP e LCP
